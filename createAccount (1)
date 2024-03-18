@@ -21,6 +21,7 @@ const details = {
   email: 'arpan1653.be21@chitkara.edu.in',
   rollNumber: 2110991653,
   phone: 9729940930,
+githubLink:'https://github.com/Arpan011/API1/tree/main'
 };
 
 
